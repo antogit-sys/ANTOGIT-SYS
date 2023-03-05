@@ -13,8 +13,6 @@
 
 ### 🔗 1. <u>Who I am?</u>  👨‍💻📚💯
 
-Sure, here's a possible professional introduction you could use for your GitHub profile as an IT expert and programming enthusiast with a passion for hacking:
-
 Hello everyone, I'm an IT expert and programming enthusiast with a passion for hacking. I develop software and applications, explore system vulnerabilities, and enjoy pushing technological limitations.
 
 
