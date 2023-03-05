@@ -20,7 +20,7 @@ Hello everyone, I'm an IT expert and programming enthusiast with a passion for h
 
 <p align="center">
     <img src="anonballoT.gif">
-    <p><i><b>LOL !</b></i></p>
+    <p align="center"><i><b>LOL !</b></i></p>
 </p>
 
 I'm always seeking new challenges and opportunities to learn in the world of ethical hacking and programming. I hope to collaborate with the GitHub community and share my passion for technology.
