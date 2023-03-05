@@ -5,7 +5,7 @@
 <p>
 
 <p align="center">
-<img src="hacker.gif" width="498" height="280">
+<img src="hacker.gif">
 </p>
 <p align="center">
 <b>𝓤𝓷 𝓫𝓾𝓰 𝓷𝓸𝓷 𝓮` 𝓶𝓪𝓲 𝓼𝓸𝓵𝓸 𝓾𝓷 𝓮𝓻𝓻𝓸𝓻𝓮. 𝓡𝓪𝓹𝓹𝓻𝓮𝓼𝓮𝓷𝓽𝓪 𝓺𝓾𝓪𝓵𝓬𝓸𝓼𝓪 𝓭𝓲 𝓹𝓲𝓾`. 𝓤𝓷 𝓮𝓻𝓻𝓸𝓻𝓮 𝓷𝓮𝓵 𝓶𝓸𝓭𝓸 𝓭𝓲 𝓹𝓮𝓷𝓼𝓪𝓻𝓮.</b>
@@ -17,9 +17,9 @@ Sure, here's a possible professional introduction you could use for your GitHub 
 
 Hello everyone, I'm an IT expert and programming enthusiast with a passion for hacking. I develop software and applications, explore system vulnerabilities, and enjoy pushing technological limitations.
 
-<img title="" src="anonballoT.gif" alt="" data-align="center">
 
 <p align="center">
+    <img src="anonballoT.gif">
     <i><b>LOL !</b></i>
 </p>
 
@@ -29,7 +29,9 @@ I'm always seeking new challenges and opportunities to learn in the world of eth
 
 ### 🔗 2. <u>what languages do you know?</u> 🗣️🖧
 
-<img title="" src="hackerdog.gif" alt="" data-align="center">
+<p align="center">
+<img src="hackerdog.gif">
+</p>
 
 I have extensive knowledge of numerous languages, including: <mark>C/C++ /Python /Java /Bash / VBA</mark> ecc.. and love sharing my code with the open-source 
 community. I have developed specific legal and regulatory expertise, 
@@ -39,7 +41,9 @@ which enables me to provide IT consulting and technical support in cases of lega
 
 ### 🔗 3. <u>Contact me</u> 🤙🏼💯
 
-<img title="" src="fsociety.gif" alt="" data-align="center">
+<p align="center">
+<img src="fsociety.gif" width="498" height="280">
+</p>
 
 Thank you for visiting my profile, and please don't hesitate to contact me for any questions or collaboration.
 
