@@ -33,9 +33,9 @@ I'm always seeking new challenges and opportunities to learn in the world of eth
     <img src="hackerdog.gif">
 </p>
 
-I have extensive knowledge of numerous languages, including: <mark>C/C++ /Python /Java /Bash / VBA</mark> ecc.. and love sharing my code with the open-source 
+<p>I have extensive knowledge of numerous languages, including: <mark>C/C++ /Python /Java /Bash / VBA</mark> ecc.. and love sharing my code with the open-source 
 community. I have developed specific legal and regulatory expertise, 
-which enables me to provide IT consulting and technical support in cases of legal disputes.
+which enables me to provide IT consulting and technical support in cases of legal disputes.</p>
 
 <br>
 
